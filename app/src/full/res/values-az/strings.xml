@@ -182,17 +182,17 @@
 
     <string name="select_method">Üsul Seçin</string>
 
-    <string name="boot_file_patch_msg">Select stock boot image dump in .img or .img.tar format.</string>
+    <string name="boot_file_patch_msg">Standart boot surətinin yığılma formatını .imb yaxud img.tar kimi seçin.</string>
 
-    <string name="complete_uninstall">Complete Uninstall</string>
+    <string name="complete_uninstall">Silməni Bitir</string>
 
-    <string name="restore_img">Restore Images</string>
+    <string name="restore_img">Şəkilləri Geri Qaytar</string>
 
-    <string name="restore_img_msg">Restoring…</string>
+    <string name="restore_img_msg">Geri qaytarılır…</string>
 
-    <string name="restore_done">Restoration done!</string>
+    <string name="restore_done">Geri qaytarma bitdi!</string>
 
-    <string name="restore_fail">Stock backup does not exist!</string>
+    <string name="restore_fail">Stock nüsxə mövcud deyil!</string>
 
     <string name="proprietary_title">Download Proprietary Code</string>
 
